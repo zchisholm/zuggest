@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "AI Autocomplete for Web Text Fields",
+  "version": "1.0",
+  "description": "Provides inline AI-powered text suggestions for any text field on the web.",
+  "permissions": ["storage"],
+  "host_permissions": ["<all_urls>"]
+}
+
+
